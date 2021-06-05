@@ -1,6 +1,6 @@
 # Excess-Drug-Consumption-Classifier
 
-The problem to be soved in this project is related to drug consumption and the lack of knowdledge in identifying those who are most at risk at devloping excessive drug consumption 
+The problem to be soved in this project is related to drug consumption and the lack of knowledge in identifying those who are most at risk at devloping excessive drug consumption 
 habits for particular drugs. Although some drugs are illegal in many countries, and a lot of money has been spent on both tackling the produiction and tackling of 
 said illegal drugs, this has not prevented their widespread usage. Additionally, even legally aquired drugs such as alcohol or nicotin through cigarettes are shown
 to be harmful, with the exception of alcohol which is tolerable in more moderate doses. Addicition and misuse of drugs remains a constant battle with no resolution
