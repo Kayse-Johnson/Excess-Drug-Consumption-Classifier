@@ -12,7 +12,7 @@ Through this project, it may be able to help inform of those most at risk for ex
 - Directly find people who are at a higher risk and take more preventative measures when educating them on potential dangers to drugs.
 - For addicts or people who are currently at risk of developing an addiction, if a certain facet of their personality is strong indicator for a given drug, it may easier to appeal to them in one way over another.
 - Parent when raising their childer can understand how their child's personality and habits may or may not create complications through an addictive or bad coping mindset.
-- 
+
 The data used comes from a culmination of owners particularly: 
 -Elaine Fehrman-Men's Personality Disorder and National Women's Directorate,Rampton Hospital, Nottingham
 -Vincent Egan, Department of Psychiatry and Applied Psychology, University of Nottingham
